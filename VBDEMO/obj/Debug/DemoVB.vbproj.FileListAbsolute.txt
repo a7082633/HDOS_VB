@@ -1,0 +1,9 @@
+D:\c++2008\VBDEMO\bin\Project1.exe
+D:\c++2008\VBDEMO\bin\Project1.pdb
+D:\c++2008\VBDEMO\bin\Project1.xml
+D:\c++2008\VBDEMO\obj\Debug\ResolveAssemblyReference.cache
+D:\c++2008\VBDEMO\obj\Debug\Project1.Form1.resources
+D:\c++2008\VBDEMO\obj\Debug\DemoVB.vbproj.GenerateResource.Cache
+D:\c++2008\VBDEMO\obj\Debug\Project1.exe
+D:\c++2008\VBDEMO\obj\Debug\Project1.xml
+D:\c++2008\VBDEMO\obj\Debug\Project1.pdb
